@@ -1,4 +1,4 @@
-# expanded_flexible
+# Expanded_Flexible
 
 A new Flutter project.
 
