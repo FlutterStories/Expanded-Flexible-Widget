@@ -1,4 +1,4 @@
-# Expanded_Flexible
+# Expanded vs Flexible
 
 A new Flutter project.
 
